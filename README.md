@@ -1,3 +1,17 @@
+
+homepage,
+form login/register,
+navbar,
+profile page,
+badge for name user,
+dashboard,
+chart,
+sales data input,
+product data input,
+pagination + search,
+alert 
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
